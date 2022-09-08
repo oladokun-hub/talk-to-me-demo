@@ -1,0 +1,102 @@
+nav {
+    background-color: #ffff;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h2 {
+    color: #3A86FF;
+    text-align: center;
+}
+
+.intro {
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.container-fluid {
+    padding: 18px 0px;
+}
+
+.form {
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.input {
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+
+
+
+.buttondiv {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.footer {
+    background-color: #035ADC;
+    margin-top: 70px;
+    text-align: center;
+    padding-top: 3%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+
+.d-flex {
+    padding-left: 30%;
+    padding-right: 20%;
+    padding-bottom: 3%;
+}
+
+.subscribe {
+    color: #ffff;
+}
+
+.welcome-text {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.assign-text {
+    padding: 10%;
+}
+
+.footer-counselor {
+    background-color: #035ADC;
+    margin-top: 70px;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.counsel {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.counselor-text {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.counselor-img {
+    width: 7%;
+    height: 7%;
+    padding-bottom: 2%;
+}
+
+
+
+
+
+
+
+
